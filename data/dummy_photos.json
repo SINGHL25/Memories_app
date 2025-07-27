@@ -1,1 +1,6 @@
-
+# File: data/dummy_photos.json
+# ----------------------------
+[
+  {"id": 1, "url": "photo1.jpg", "desc": "Goa Trip", "tags": ["beach"]},
+  {"id": 2, "url": "photo2.jpg", "desc": "Graduation Day", "tags": ["school"]}
+]
