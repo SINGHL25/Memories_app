@@ -1,1 +1,8 @@
-
+# File: requirements.txt
+# ------------------------
+streamlit
+firebase-admin
+pymongo
+openai-whisper
+speechrecognition
+python-dotenv
