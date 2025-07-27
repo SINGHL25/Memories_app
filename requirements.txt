@@ -6,3 +6,5 @@ pymongo
 openai-whisper
 speechrecognition
 python-dotenv
+streamlit
+
