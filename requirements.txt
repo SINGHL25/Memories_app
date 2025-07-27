@@ -2,9 +2,6 @@
 # ------------------------
 streamlit
 firebase-admin
-pymongo
-openai-whisper
-speechrecognition
 python-dotenv
-streamlit
+
 
