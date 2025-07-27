@@ -1,1 +1,9 @@
-
+# File: backend/firebase_config.json
+# (dummy structure - actual key in real deployment)
+"""
+{
+  "type": "service_account",
+  "project_id": "memories-app",
+  ...
+}
+"""
